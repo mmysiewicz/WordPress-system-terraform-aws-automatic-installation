@@ -1,0 +1,5 @@
+region      = "us-east-1"
+environment = "test"
+vpc_cidr    = "10.1.0.0/16"
+db_password = "adminadminadmin"
+key_name    = "my-ssh-key"
